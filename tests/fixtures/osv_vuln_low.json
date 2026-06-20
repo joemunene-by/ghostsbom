@@ -1,0 +1,21 @@
+{
+  "id": "GHSA-test-low-0001",
+  "summary": "Minor information disclosure in example package",
+  "details": "A low-impact issue used for ghostsbom test coverage.",
+  "aliases": [],
+  "database_specific": {"severity": "LOW"},
+  "affected": [
+    {
+      "package": {"ecosystem": "PyPI", "name": "flask"},
+      "ranges": [
+        {
+          "type": "ECOSYSTEM",
+          "events": [
+            {"introduced": "0"},
+            {"fixed": "2.0.1"}
+          ]
+        }
+      ]
+    }
+  ]
+}

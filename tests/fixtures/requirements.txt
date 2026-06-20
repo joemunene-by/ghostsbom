@@ -1,0 +1,9 @@
+# Sample requirements for ghostsbom tests
+requests==2.19.1
+urllib3==1.24.1  # known vulnerable pin
+Flask==2.0.0
+PyYAML==5.3.1
+reqeusts==2.19.1
+-r other-requirements.txt
+black ; python_version >= "3.8"
+six==1.16.0 --hash=sha256:deadbeef

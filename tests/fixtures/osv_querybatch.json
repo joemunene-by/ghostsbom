@@ -1,0 +1,7 @@
+{
+  "results": [
+    {"vulns": [{"id": "GHSA-x84v-xcm2-53pg"}]},
+    {"vulns": [{"id": "GHSA-test-low-0001"}]},
+    {}
+  ]
+}

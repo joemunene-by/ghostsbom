@@ -1,0 +1,33 @@
+{
+  "pypi": [
+    "requests", "urllib3", "boto3", "botocore", "setuptools", "certifi",
+    "idna", "charset-normalizer", "python-dateutil", "six", "numpy", "pyyaml",
+    "wheel", "packaging", "cryptography", "click", "jinja2", "markupsafe",
+    "pip", "attrs", "rsa", "pyasn1", "s3transfer", "colorama", "flask",
+    "django", "fastapi", "pydantic", "sqlalchemy", "pandas", "scipy",
+    "matplotlib", "pillow", "pytest", "tox", "virtualenv", "wheel",
+    "typing-extensions", "google-api-core", "protobuf", "grpcio", "aiohttp",
+    "httpx", "starlette", "uvicorn", "redis", "celery", "tornado", "tqdm",
+    "beautifulsoup4", "lxml", "openpyxl", "scikit-learn", "tensorflow",
+    "torch", "transformers", "werkzeug", "itsdangerous", "wrapt", "psutil",
+    "paramiko", "pyjwt", "bcrypt", "passlib", "websockets", "anyio", "sniffio",
+    "h11", "rich", "typer", "poetry", "ruff", "mypy", "black", "isort",
+    "coverage", "gunicorn", "pymongo", "psycopg2", "psycopg2-binary",
+    "mysqlclient", "elasticsearch", "kafka-python", "pika", "boto", "awscli"
+  ],
+  "npm": [
+    "lodash", "react", "react-dom", "express", "chalk", "commander", "debug",
+    "axios", "moment", "request", "async", "underscore", "bluebird", "webpack",
+    "babel-core", "@babel/core", "typescript", "eslint", "prettier", "jest",
+    "mocha", "chai", "sinon", "vue", "angular", "rxjs", "redux", "next",
+    "node-fetch", "uuid", "dotenv", "cors", "body-parser", "mongoose",
+    "sequelize", "pg", "mysql", "mysql2", "redis", "socket.io", "ws",
+    "jsonwebtoken", "bcrypt", "passport", "nodemailer", "winston", "morgan",
+    "yargs", "inquirer", "glob", "rimraf", "fs-extra", "semver", "minimist",
+    "qs", "form-data", "tslib", "core-js", "regenerator-runtime", "classnames",
+    "prop-types", "styled-components", "tailwindcss", "postcss", "autoprefixer",
+    "rollup", "vite", "esbuild", "ramda", "immer", "zod", "yup", "joi",
+    "date-fns", "dayjs", "cheerio", "puppeteer", "playwright", "ethers",
+    "web3", "graphql", "apollo-server", "@apollo/client"
+  ]
+}
