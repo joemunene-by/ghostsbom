@@ -1,4 +1,8 @@
-# ghostsbom
+<p align="center">
+  <img src="assets/logo.svg" width="120" height="120" alt="ghostsbom logo">
+</p>
+
+<h1 align="center">ghostsbom</h1>
 
 A software supply-chain security analyzer. ghostsbom generates a CycloneDX SBOM
 from your project's dependency manifests, scans those dependencies for known
