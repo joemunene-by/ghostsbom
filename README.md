@@ -4,6 +4,14 @@
 
 <h1 align="center">ghostsbom</h1>
 
+<!-- ghostsuite-badges -->
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://github.com/joemunene-by/ghostsuite"><img src="https://img.shields.io/badge/part%20of-GhostSuite-6f42c1" alt="Part of GhostSuite"></a>
+</p>
+<!-- /ghostsuite-badges -->
+
 A software supply-chain security analyzer. ghostsbom generates a CycloneDX SBOM
 from your project's dependency manifests, scans those dependencies for known
 vulnerabilities through the OSV.dev API, and layers on supply-chain risk signals
