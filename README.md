@@ -40,6 +40,13 @@ non-zero exit code when findings cross a severity threshold you choose.
   tests can avoid the network entirely.
 - Rich console summary, full JSON report, and a `--fail-on` exit-code gate.
 
+## Authorized use
+
+Use ghostsbom on codebases and artifacts you own or are authorized to analyze. It
+is a defensive supply-chain tool for generating SBOMs and surfacing vulnerability
+and risk signals on dependencies you have the right to inspect. Vulnerability and
+typosquat signals are advisory, so verify findings before acting on them.
+
 ## Install
 
 Requires Python 3.11 or newer.
