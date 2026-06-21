@@ -181,3 +181,7 @@ The test suite mocks all network access, so it passes with no connectivity.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+<sub>Part of <a href="https://github.com/joemunene-by/ghostsuite">ghostsuite</a>: eleven open-source security tools, one ghost.</sub>
